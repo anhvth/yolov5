@@ -1,0 +1,1 @@
+python train.py --data data/parking.yaml --batch-size 256 --img-size 160 --rect --cache-images --name v1 --cfg models/parking-v1.yaml --notest --resume
